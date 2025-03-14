@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "prefabPath": "C:\\Users\\User\\.gradle\\caches\\modules-2\\files-2.1\\com.google.prefab\\cli\\2.1.0\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\cli-2.1.0-all.jar",
+  "packages": [
+    "C:\\Users\\User\\.gradle\\caches\\8.12\\transforms\\595531f3c0c1ad64a2457c36971a2dd2\\transformed\\react-android-0.78.0-debug\\prefab",
+    "C:\\Users\\User\\lenovo\\experiments\\WeatherReminder\\node_modules\\react-native-reanimated\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
+    "C:\\Users\\User\\.gradle\\caches\\8.12\\transforms\\08cedefec4bc90e823628c16462896c0\\transformed\\hermes-android-0.78.0-debug\\prefab",
+    "C:\\Users\\User\\.gradle\\caches\\8.12\\transforms\\5702e0a83b8fd3d19ff8bf2a468fa6c7\\transformed\\fbjni-0.7.0\\prefab"
+  ]
+}

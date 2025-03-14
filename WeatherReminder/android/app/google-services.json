@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573234324010",
+    "project_id": "weatherreminder-3587b",
+    "storage_bucket": "weatherreminder-3587b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573234324010:android:8bc163706076945c14d953",
+        "android_client_info": {
+          "package_name": "com.freesky.weather_reminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXFySDXsNED8V14u2uQTi8ld9qp2uprp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

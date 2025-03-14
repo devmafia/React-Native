@@ -1,0 +1,12 @@
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/CMakeFiles/appmodules.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/CMakeFiles/rebuild_cache.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/rnreanimated_autolinked_build/CMakeFiles/edit_cache.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/rnreanimated_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+C:/Users/User/lenovo/experiments/WeatherReminder/android/app/.cxx/Debug/6d3v04j1/x86_64/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
